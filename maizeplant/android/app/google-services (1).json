@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388084008505",
+    "project_id": "maize-plant-d595d",
+    "storage_bucket": "maize-plant-d595d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388084008505:android:d9e486bfd4dbb44f232fe8",
+        "android_client_info": {
+          "package_name": "com.cyflixnet.maize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmtaffepsZNDdnvJUIiTOvdueVkezeuM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

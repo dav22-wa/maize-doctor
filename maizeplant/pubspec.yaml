@@ -1,0 +1,42 @@
+name: maizeplant
+description: A Flutter project for Maize Plant Disease Detection.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.10.0 # Update to the latest version available at the time of updating
+  firebase_auth: ^4.5.0 # Update to the latest version available at the time of updating
+  firebase_database: 10.3.2 # Update to the latest version available at the time of updating
+  pdf: ^3.8.4
+  open_file: ^3.3.2
+  path_provider: ^2.1.1
+  image_picker: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/ml/model.tflite
+    - lib/ml/labels.txt
+    - assets/cover.png
+    - assets/cover_2.png
+    - assets/login.png
+    - assets/Maize.png
+    - assets/sign_up.png
+  fonts:
+    - family: Lobster
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
