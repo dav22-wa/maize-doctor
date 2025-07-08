@@ -88,7 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Show Your Support
 
-If you find this project useful, please consider giving it a star on GitHub to show your support.
+If you find this project useful, please consider giving it a star on  GitHub to show your support.
 
 [![GitHub stars](https://img.shields.io/github/stars/[your-username]/[your-repo-name].svg?style=social)](https://github.com/[your-username]/[your-repo-name])
 
